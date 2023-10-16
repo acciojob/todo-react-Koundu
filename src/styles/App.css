@@ -1,1 +1,31 @@
+p{
+    text-align: center;
+    margin-top: 60px;
+}
+
+#input{
+    margin-left: 40%;
+    height: 35px;
+    width: auto;
+}
+
+input,button{
+    height: 100%;
+    cursor: pointer;
+}
+
+ul{
+    list-style-type: none;
+    text-align: center;
+}
+
+li{
+    font-size: 36px;
+}
+
+li> button{
+    margin-left: 300px;
+    font-size: 20px;
+}
+
 
